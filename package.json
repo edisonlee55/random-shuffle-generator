@@ -1,0 +1,28 @@
+{
+    "name": "random-shuffle-generator",
+    "version": "1.0.0",
+    "description": "Random Shuffle Generator",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/edisonlee55/random-shuffle-generator.git"
+    },
+    "author": {
+        "name": "Edison Lee",
+        "email": "edisonlee@edisonlee55.com",
+        "url": "https://www.edisonlee55.com"
+    },
+    "contributors": [
+        {
+            "name": "Edison Lee",
+            "email": "edisonlee@edisonlee55.com",
+            "url": "https://www.edisonlee55.com"
+        }
+    ],
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/edisonlee55/random-shuffle-generator/issues",
+        "email": "edisonlee@edisonlee55.com"
+    },
+    "dependencies": {}
+}
