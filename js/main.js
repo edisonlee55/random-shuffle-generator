@@ -18,7 +18,9 @@ function shuffleArray() {
     let tmp = "";
     for (let i = 0; i < arr.length; i++) {
         tmp += arr[i];
-        tmp += "\n";
+        if (i != arr.length - 1) {
+            tmp += "\n";
+        }
     }
     $("#output").val(tmp);
 }
